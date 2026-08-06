@@ -1,0 +1,73 @@
+ENUMERAZIONE DELL'ARCHIVIO — manifest v0
+Momento della raccolta (cutoff): 2026-08-06T23:26:42+02:00
+User-Agent: TesiRAG-Crawler/0.1 (ricerca universitaria; matteo.curiale@students.uniroma2.eu)
+Ritardo fra le richieste: 2.0 s
+
+https://id.accademiadellacrusca.org/fascicoli/archivio  |  50874 byte  |  SHA256 e568d60526c51cb42486554d2b756956716628424500d755b2db71a8510d0c4a
+https://id.accademiadellacrusca.org/fascicoli/in-anteprima  |  13024 byte  |  SHA256 050ee0c9a5c3decd8d9235ab3393e240ff32de541a727fdf97b9b7bbcd33b78b
+
+Fascicoli da visitare: 38
+
+https://id.accademiadellacrusca.org/fascicoli/xxxiii-2025-2-aprile-giugno/33383  |  89126 byte  |  SHA256 a8fc58b38c5ee56a71444be73aa28e9f86558b470d989b38daad05fd136ff8d0  |  schede: 60  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xxxii-2025-1-gennaio-marzo/31336  |  86156 byte  |  SHA256 e09c822df30eef967afe02905cb66b94dcf93284f80ee5ceda922fb75d95adb5  |  schede: 61  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xxxi-2024-4-ottobre-dicembre/31281  |  79615 byte  |  SHA256 364c5dc5f52ff968a6d3a56199e31492e3d32ae261c0a21c4b2a19e11bd99bc0  |  schede: 54  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xxx-2024-3-luglio-settembre/30241  |  64974 byte  |  SHA256 058632aa970115b4d2c3a1d9a78b994d45c541f568f9feb737cd690a69ccb342  |  schede: 45  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xxix-2024-2-aprile-giugno/28186  |  71856 byte  |  SHA256 dbd2a793a22e600a06da78b82d72814d62c606ecff1e389bce859ef5ae8e51c6  |  schede: 50  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xxviii-2024-1-gennaio-marzo/26086  |  74533 byte  |  SHA256 68126c40a4c4625d74dbe04a942163fc2172711fbb941e2b0d95ebc8b000bd77  |  schede: 52  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xxvii-2023-4-ottobre-dicembre/26081  |  80304 byte  |  SHA256 7b9e308c4c43b9869df24af30d5e5c6adc0f59a498a56ecf0ac78255d011c15e  |  schede: 58  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xxvi-2023-3-luglio-settembre/26038  |  68869 byte  |  SHA256 699e4b74f28c98ec50103fc961071e0e9e726bc2a1c5aca77b6c67cf96e28aed  |  schede: 50  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xxv-2023-2-aprile-giugno/24994  |  70207 byte  |  SHA256 d22509dc4f965b4c0556b2f6aa216b5171fe7ad6fadcc375a64a7d402ec3801a  |  schede: 50  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xxiv-2023-1-gennaio-marzo/23935  |  67456 byte  |  SHA256 5bb17e886fef45a607494cb8bb034a52f9c538def25bf8e6f604e20fea4a5671  |  schede: 49  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xxiii-2022-4-ottobre-dicembre/21885  |  73407 byte  |  SHA256 cbefc4506d7e9c7fbcde7de9f9f10ae72403fd223e2cacc722e53efe2440c7a2  |  schede: 51  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xxii-2022-3-luglio-settembre/16848  |  66045 byte  |  SHA256 26d9452a1f893000949584790e7a9572ea540c1fcfcbaa927c82e6b683ccc591  |  schede: 45  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xxi-2022-2-aprile-giugno/14798  |  71829 byte  |  SHA256 262a0f006ca6142b7e05a4a279a27684db83172534b2f8970391852bbd4127a3  |  schede: 48  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xx-2022-1-gennaio-marzo/11749  |  74747 byte  |  SHA256 1e43a99184d4b478fa849d5982fe1726f6f01824b6e9374f4f56a879d5d9ac53  |  schede: 54  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xix-2021-4-ottobre-dicembre/8708  |  64365 byte  |  SHA256 288cf9760f674dd3b65fd708f989fdd942cf80756f2049d48688df837e0312cc  |  schede: 45  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xviii-2021-3-luglio-settembre/6670  |  57351 byte  |  SHA256 a047111d64fcc154567a9daa4a05049efe25eb5a7d2e5b011ace0e8d329063a1  |  schede: 40  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xvii-2021-2-aprile-giugno/3614  |  73222 byte  |  SHA256 50bd8b17b647b77ee5413c46b1f4fda136ba9c6690a6f8ec109a676e9696fc38  |  schede: 53  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xvi-2021-1-gennaio-marzo/2565  |  65950 byte  |  SHA256 0057027064287753b8cb9b300e7c4842692765b8f0a9214d904dcdbce458fd76  |  schede: 46  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xv-2020-4-ottobre-dicembre/1508  |  58536 byte  |  SHA256 89b3cf1637ead77fff443f1099c125ef3866746553fc0c0332d58d644ecfa3f7  |  schede: 39  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xiv-2020-3-luglio-settembre/1485  |  54259 byte  |  SHA256 774cbdcd623bbf888e05a46c57db4ad592e45f76750904c13a9b33ae57e34f48  |  schede: 35  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xiii-2020-2-aprile-giugno/425  |  57932 byte  |  SHA256 d4dc7e2087ee56b30c3d6cedf8c445f4163a70088e1c397907454b33bf047314  |  schede: 38  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xii-2020-1-gennaio-marzo/344  |  58247 byte  |  SHA256 91f400414b6c8b55a987b0362fb9083472df37180e5cfafd1d4bdea1389b966e  |  schede: 40  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xi-2019-4-ottobre-dicembre/372  |  53707 byte  |  SHA256 087944406adf903e883998942b66b8dc86024c29ca3185f909c3889d96902f91  |  schede: 36  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/x-2019-3-luglio-settembre/288  |  49229 byte  |  SHA256 c87d8013f3ec8030008469eb730c10fe20f3e06c36708ab960079754da853b9f  |  schede: 31  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/ix-2019-2-aprile-giugno/287  |  57521 byte  |  SHA256 48cf3181e8b53a6d32a67ab02f8f8d5bef225f14507fb834962c85e816aa3c99  |  schede: 36  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/viii-2019-1-gennaio-marzo/254  |  55531 byte  |  SHA256 4142c4e3999fb4281dea64b48bd4bebd2ad3e109a3d62fac51ab7f049cb48b3c  |  schede: 35  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/vii-2018-4-ottobre-dicembre/8  |  64721 byte  |  SHA256 883aa450c55673215adc12d644252140040a5c26dbef6ef80745c006324b4b9e  |  schede: 42  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/vi-2018-3-luglio-settembre/7  |  55657 byte  |  SHA256 dc200c69d5e7412d9b0a73f219ea071ca44eacac41f7292e903e2da7f9e0519b  |  schede: 32  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/v-2018-2-aprile-giugno/6  |  55164 byte  |  SHA256 52adc0daa9a0d191a98916fb4d0ced5f66a58abee08096dae7213814c90b78ad  |  schede: 35  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/iv-2018-1-gennaio-marzo/5  |  72973 byte  |  SHA256 1f9f0eec8cf533c4ea89971dad506c8351bdc297b29a3f85db04982a833870ab  |  schede: 44  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/iii-2017-3-ottobre-dicembre/4  |  52909 byte  |  SHA256 3d3318084d4b975fbbf2cd827e98a2d48a03c43c2c13c7a560f9afa7f88c75cd  |  schede: 33  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/ii-2017-2-luglio-settembre/3  |  49215 byte  |  SHA256 2fd94bddef1b3e348f070136147e67f948c584611ded9c365c914e1cc44d084d  |  schede: 28  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/i-2017-1-aprile-giugno/2  |  53100 byte  |  SHA256 42e8e7070106a3fd1ef303041c05ccc6557d6ebf9304bb47194ff08d16378695  |  schede: 33  |  stato: chiuso
+https://id.accademiadellacrusca.org/fascicoli/xxxviii-2026-3-luglio-settembre/41653  |  32375 byte  |  SHA256 c4f2dd730897dbdf16fe793305b4bb63ccd6a67514bbb54da3e1916510c276cd  |  schede: 17  |  stato: aperto
+https://id.accademiadellacrusca.org/fascicoli/xxxvii-2026-2-aprile-giugno/40593  |  58158 byte  |  SHA256 c5ae1e73948a7f881160a0b1d20727f735568b6234d9f16dae08272ecadb31b9  |  schede: 41  |  stato: aperto
+https://id.accademiadellacrusca.org/fascicoli/xxxvi-2026-1-gennaio-marzo/38549  |  59579 byte  |  SHA256 5b030211eae6c787a5c8bf76c2a3876af54c5fda1a1e26e58fd48f4a0e547907  |  schede: 42  |  stato: aperto
+https://id.accademiadellacrusca.org/fascicoli/xxxv-2025-4-ottobre-dicembre/37505  |  63662 byte  |  SHA256 fa90f242450367edf3e216ebb43fc9c133faea271ed84ee14850263c3715440e  |  schede: 45  |  stato: aperto
+https://id.accademiadellacrusca.org/fascicoli/xxxiv-2025-3-luglio-settembre/34430  |  61868 byte  |  SHA256 1786c1f8011207fca4b5da555d20a6725b218d8d772aae41cb1a3e11c26351a8  |  schede: 43  |  stato: aperto
+
+Controllo di determinismo su https://id.accademiadellacrusca.org/articoli/editoriale-del-direttore/40598: stabile
+  1a lettura SHA256 70aefd5d70e7dc233bc567127dd736928aec141bc78cda8ee8d759ff30373147
+  2a lettura SHA256 70aefd5d70e7dc233bc567127dd736928aec141bc78cda8ee8d759ff30373147
+
+--- RIEPILOGO ---
+Richieste inviate: 42
+Schede totali: 1636
+Per stato del fascicolo: {'chiuso': 1448, 'aperto': 188}
+Nucleo consultivo: 1199   Estensione (Parole nuove): 129
+Schede senza PDF individuato: 190
+Schede senza rubrica attribuita: 0
+
+Per rubrica normalizzata:
+   1091  CONSULENZA LINGUISTICA
+    129  PAROLE NUOVE
+    108  LA CRUSCA RISPOSE
+     93  ARTICOLI
+     72  TEMI DI DISCUSSIONE
+     40  NOTIZIE
+     36  INCONTRI E TORNATE
+     33  EDITORIALE
+     28  BIBLIOGRAFIA
+      5  INTEGRAZIONI LESSICOGRAFICHE
+      1  APPENDICE

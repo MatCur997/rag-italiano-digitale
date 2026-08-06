@@ -1,0 +1,16 @@
+# Parametri della raccolta. Unica fonte di verita': ogni script li legge da qui.
+# Lo user_agent coincide alla lettera con quello dichiarato nel verbale di
+# accesso del 6/8 (data/raw/legal, copia in docs/): non va modificato senza
+# rifare la verifica dei vincoli d'accesso.
+
+user_agent: "TesiRAG-Crawler/0.1 (ricerca universitaria; matteo.curiale@students.uniroma2.eu)"
+ritardo_secondi: 2.0
+timeout_secondi: 30.0
+
+portale: "https://id.accademiadellacrusca.org/"
+elenco_fascicoli_chiusi: "fascicoli/archivio"
+elenco_fascicoli_aperti: "fascicoli/in-anteprima"
+
+# Momento della raccolta, dichiarato nel cap. 4. Lo scrive una volta sola
+# l'enumerazione definitiva, contestuale al crawl (decisione D1, 6/8).
+data_crawl: null
