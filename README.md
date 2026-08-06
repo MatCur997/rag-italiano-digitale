@@ -12,9 +12,22 @@ I testi provengono da *Italiano digitale*, rivista dell'Accademia della Crusca
 (e-ISSN 2532-9006), https://id.accademiadellacrusca.org.
 
 Titolarità dei contenuti: **Accademia della Crusca**.
-Licenza dei contenuti: **CC BY-NC-ND 4.0**, verificata e registrata per singola
-scheda. Alcune rubriche di servizio non ricadono sotto licenza aperta e sono
-escluse dal corpus.
+Licenza dei contenuti: **CC BY-NC-ND 4.0**, come dichiarato in
+<https://id.accademiadellacrusca.org/criteri-e-norme> e nel riquadro «Cita come»
+di ogni scheda. La pagina `/copyright` del portale indica invece CC BY 4.0 per i
+materiali del sito: in presenza di dichiarazioni divergenti si assume la più
+specifica e più restrittiva. La licenza è registrata per singola scheda in fase
+di acquisizione. Alcune rubriche di servizio non ricadono sotto licenza aperta e
+sono escluse dal corpus.
+
+## Condizioni di raccolta
+
+Il portale non espone `robots.txt` (verificato il 6 agosto 2026, risposta
+archiviata con impronta): non risultano esclusioni dichiarate ai sensi di
+RFC 9309. La raccolta è comunque condotta con user-agent identificativo e un
+ritardo di 2 secondi fra le richieste, secondo i parametri in
+`config/acquisizione.yaml`, e in un'unica esecuzione. Il verbale di accesso è in
+`docs/`.
 
 ## Che cosa questo repository non contiene
 
