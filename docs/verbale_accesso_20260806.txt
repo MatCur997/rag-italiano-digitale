@@ -1,0 +1,27 @@
+VERIFICA DEI VINCOLI DI ACCESSO
+Momento dell'accesso: 2026-08-06T22:29:06+02:00
+User-Agent: TesiRAG-Crawler/0.1 (ricerca universitaria; matteo.curiale@students.uniroma2.eu)
+Ritardo dichiarato fra le richieste: 2.0 s
+Perimetro di raccolta: il solo dominio id.accademiadellacrusca.org.
+Il sito istituzionale accademiadellacrusca.it non e' oggetto di crawl e
+non viene interrogato come base; le sole pagine legali esplicitamente
+collegate dal portale sono archiviate e marcate [fuori dominio].
+
+--- robots.txt, sitemap e pagine editoriali del portale ---
+https://id.accademiadellacrusca.org/robots.txt  ->  HTTP 404  (NON DISPONIBILE -- assenza archiviata)  |  4878 byte  |  text/html; charset=utf-8  |  Date: Thu, 06 Aug 2026 20:29:05 GMT  |  SHA256 582cde35bc7519d253211461fadeef33853c7fe32ed400cfeeaf812c061fd18d  |  id_accademiadellacrusca_org_robots_txt_20260806.raw
+https://id.accademiadellacrusca.org/sitemap.xml  ->  HTTP 404  (NON DISPONIBILE -- assenza archiviata)  |  4880 byte  |  text/html; charset=utf-8  |  Date: Thu, 06 Aug 2026 20:29:07 GMT  |  SHA256 1f86cc0c16555a94c13485b25597e8dc77f8c5c04179d1ab24dd2d7b41f67b5d  |  id_accademiadellacrusca_org_sitemap_xml_20260806.raw
+https://id.accademiadellacrusca.org/criteri-e-norme  ->  HTTP 200  |  8670 byte  |  text/html; charset=utf-8  |  Date: Thu, 06 Aug 2026 20:29:09 GMT  |  SHA256 b9cae7c98c6880a1c9ff36f52d8df480b2982b928ca8d7906828893e8e3ac5ad  |  id_accademiadellacrusca_org_criteri_e_norme_20260806.raw
+https://id.accademiadellacrusca.org/codice-etico  ->  HTTP 200  |  14449 byte  |  text/html; charset=utf-8  |  Date: Thu, 06 Aug 2026 20:29:12 GMT  |  SHA256 1c1e2686606c6c12f472838abd2957c628b8412b0dc05174e69dcdf18ca8c77b  |  id_accademiadellacrusca_org_codice_etico_20260806.raw
+
+--- home del portale e pagine legali collegate ---
+https://id.accademiadellacrusca.org/  ->  HTTP 200  |  15072 byte  |  text/html; charset=utf-8  |  Date: Thu, 06 Aug 2026 20:29:14 GMT  |  SHA256 88380341c3cfd63218d8a7f54cbb92a766a4a9ae50c1c5b9c81534fe8dcb6d25  |  id_accademiadellacrusca_org__20260806.raw
+https://id.accademiadellacrusca.org/crediti  ->  HTTP 200  |  6923 byte  |  text/html; charset=utf-8  |  Date: Thu, 06 Aug 2026 20:29:15 GMT  |  SHA256 2702de3edefe3a77ab347153520f522c47dd21f09861f8dad6114852ef01836c  |  id_accademiadellacrusca_org_crediti_20260806.raw
+https://id.accademiadellacrusca.org/copyright  ->  HTTP 200  |  7012 byte  |  text/html; charset=utf-8  |  Date: Thu, 06 Aug 2026 20:29:18 GMT  |  SHA256 a465ed7debed67b0d4aa4682f2afe977a9644e9dd16ed9c4f353594ce8437208  |  id_accademiadellacrusca_org_copyright_20260806.raw
+[fuori dominio] https://accademiadellacrusca.it/it/contenuti/informativa/6960  ->  HTTP 200  |  70111 byte  |  text/html; charset=utf-8  |  Date: Thu, 06 Aug 2026 20:29:21 GMT  |  SHA256 fd20c7aec1e852ae9d18baea909ac21bd1815f5b68875f17dfc03b48a8e9fbeb  |  accademiadellacrusca_it_it_contenuti_informativa_6960_20260806.raw
+
+--- allegati della pagina dei criteri editoriali ---
+[Vedi le norme editoriali della rivista] https://id.accademiadellacrusca.org/criteri2.pdf  ->  HTTP 200  |  212471 byte  |  application/pdf  |  Date: Thu, 06 Aug 2026 20:29:21 GMT  |  SHA256 aa35cb4d4c1332438840a2162e30b214ad0bf303bf3a237480525a41b211fa11  |  id_accademiadellacrusca_org_criteri2_pdf_20260806.raw
+
+Richieste inviate: 9
+Documenti distinti archiviati: 9
+Di cui fuori dal dominio id.accademiadellacrusca.org: 1
