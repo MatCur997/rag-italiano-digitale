@@ -1,0 +1,21 @@
+id_scheda,anno,rubrica,pagine,quesito_html,car_html,car_pdf,delta_car,similarita,esito,prima_divergenza
+466,2020,CONSULENZA LINGUISTICA,30-31,True,4167,4116,-51,0.983,ok,car 0: html «…©2020accademiadellacruscaquesito:sonogiuntemo…» | pdf «…quesito:sonogiuntemoltedomandesullacorrettezz…»
+1512,2020,CONSULENZA LINGUISTICA,54-55,True,4453,4407,-46,0.9837,ok,car 0: html «…©2020accademiadellacruscaquesito:cisonoalcuni…» | pdf «…quesito:cisonoalcunicheritengonochel'aettivo…»
+275,2019,CONSULENZA LINGUISTICA,40,False,1682,1649,-33,0.9853,ok,car 0: html «…©2019accademiadellacruscaquesito:unutentechie…» | pdf «…quesito:unutentechiedechiarimentiapropositodi…»
+330,2019,LA CRUSCA RISPOSE,79-80,False,3514,3526,12,0.9861,ok,car 0: html «…©2003accademiadellacruscaabstractclaudiosgarb…» | pdf «…quesito:claudiosgarbantichiedechiarimentisual…»
+279,2019,CONSULENZA LINGUISTICA,50,False,2840,2797,-43,0.987,ok,car 0: html «…©2019accademiadellacruscaquesito:alcunilettor…» | pdf «…quesito:alcunilettoricichiedonosenonsiapossib…»
+365,2019,PAROLE NUOVE,61-64,False,10668,10637,-31,0.9893,ok,car 0: html «…©2019accademiadellacruscalaparolasextortion(a…» | pdf «…aparolasextortion(attestataanchenellavariante…»
+435,2020,LA CRUSCA RISPOSE,79-82,False,11173,11168,-5,0.9896,ok,"car 0: html «…©2014accademiadellacruscaabstractrispondiamoa…» | pdf «…quesito:rispondiamoafabriziogabrielliche,attr…»"
+282,2019,LA CRUSCA RISPOSE,59-61,False,7444,7413,-31,0.9897,ok,car 0: html «…©2016accademiadellacruscaquesito:sonoarrivati…» | pdf «…quesito:sonoarrivativariquesiticheriguardanol…»
+280,2019,CONSULENZA LINGUISTICA,51-52,False,5551,5522,-29,0.9911,ok,car 0: html «…©2019accademiadellacruscaquesito:diverselettr…» | pdf «…quesito:diverselettricielettoricichiedonodico…»
+401,2019,CONSULENZA LINGUISTICA,26-28,True,8865,8827,-38,0.9911,ok,car 0: html «…©2019accademiadellacruscaquesito:sonopervenut…» | pdf «…quesito:sonopervenuteinredazionevarierichiest…»
+24985,2023,CONSULENZA LINGUISTICA,113-116,True,8043,8044,1,0.9914,ok,car 0: html «…©2023accademiadellacruscaquesito:cièstatochie…» | pdf «…quesito:cièstatochiestosesiacorrettoutilizzar…»
+3607,2021,CONSULENZA LINGUISTICA,94-98,True,13463,13443,-20,0.9918,ok,car 0: html «…©2021accademiadellacruscaquesito:cisonoperven…» | pdf «…quesito:cisonopervenute(econtinuanoapervenirc…»
+1495,2020,PAROLE NUOVE,104-110,False,18834,18847,13,0.9923,ok,car 0: html «…©2020accademiadellacruscaduranteiprimimesidel…» | pdf «…uranteiprimimesidel2020sonogiunteallanostrare…»
+24943,2023,CONSULENZA LINGUISTICA,35-38,True,10790,10780,-10,0.9924,ok,car 0: html «…©2023accademiadellacruscaquesito:diversiletto…» | pdf «…quesito:diversilettorisisonorivoltialservizio…»
+20872,2022,CONSULENZA LINGUISTICA,103-118,True,36888,36937,49,0.9932,ok,car 0: html «…©2022accademiadellacruscaquesito:molteplicidu…» | pdf «…quesito:molteplicidubbisonostatimanifestatida…»
+31283,2024,LA CRUSCA RISPOSE,145-148,False,10328,10390,62,0.994,ok,car 0: html «…©2016accademiadellacruscaabstractsonoarrivate…» | pdf «…quesito:sonoarrivatevariedomandesulverbosobba…»
+31280,2024,CONSULENZA LINGUISTICA,3-7,True,13956,13946,-10,0.995,ok,car 0: html «…©2024accademiadellacruscaquesito:sonoarrivate…» | pdf «…sonoarrivateinredazionedomandecheriguardanopa…»
+34410,2025,PAROLE NUOVE,160-166,False,15946,16015,69,0.9961,ok,car 0: html «…©2025accademiadellacruscailsostantivoskortèun…» | pdf «…lsostantivoskortèuntermineingleseentratoinita…»
+26053,2023,CONSULENZA LINGUISTICA,40-56,True,41693,41920,227,0.9966,ok,car 0: html «…©2023accademiadellacruscaquesito:moltilettori…» | pdf «…quesito:moltilettoricichiedonodifarechiarezza…»
+31289,2024,PAROLE NUOVE,146-152,False,19102,19172,70,0.9968,ok,"car 0: html «…©2024accademiadellacruscasidefiniscecontentcr…» | pdf «…idefiniscecontentcreatoro,piùspesso,solocreat…»"

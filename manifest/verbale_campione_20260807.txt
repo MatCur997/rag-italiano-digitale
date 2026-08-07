@@ -1,33 +1,33 @@
 SCARICAMENTO DEL CAMPIONE DI VERIFICA
-Momento dell'accesso: 2026-08-07T00:30:47+02:00
+Momento dell'accesso: 2026-08-07T15:32:50+02:00
 User-Agent: TesiRAG-Crawler/0.1 (ricerca universitaria; matteo.curiale@students.uniroma2.eu)
 Ritardo fra le richieste: 2.0 s
 Schede nel campione: 20
 
-43  html  ok               15213 byte  47cea75e87fc8683…  text/html; charset=utf-8
-43  pdf   ok              289026 byte  a0428f99d6202292…  application/octet-stream
-51  html  ok               40766 byte  97ad22c64c105ead…  text/html; charset=utf-8
-51  pdf   ok              387427 byte  7d8deca4246d7169…  application/octet-stream
-85  html  ok               15412 byte  aaf5760e4f1cd502…  text/html; charset=utf-8
-85  pdf   ok              279303 byte  2a0942b8a94fff86…  application/octet-stream
-93  html  ok               15109 byte  95457317c957c75f…  text/html; charset=utf-8
-93  pdf   ok              221329 byte  9604e405c08de479…  application/octet-stream
-186  html  ok               15081 byte  82e9b65b53636378…  text/html; charset=utf-8
-186  pdf   ok              234304 byte  e7e623bf84eafccd…  application/octet-stream
-197  html  ok               31030 byte  202f82beff125d14…  text/html; charset=utf-8
-197  pdf   ok              248149 byte  f7ac3d899a81e863…  application/octet-stream
-199  html  ok               13709 byte  1d5600c1a6c1b967…  text/html; charset=utf-8
-199  pdf   ok              245228 byte  477423cf54e1abde…  application/octet-stream
-302  html  ok               25782 byte  4a386abbda661dd0…  text/html; charset=utf-8
-302  pdf   ok               72114 byte  33f81ff887c053dd…  application/octet-stream
+275  html  ok               18714 byte  08779689c87c8497…  text/html; charset=utf-8
+275  pdf   ok               53146 byte  dc76e047331dc6bb…  application/octet-stream
+279  html  ok               20341 byte  a0cc039679a6e506…  text/html; charset=utf-8
+279  pdf   ok               56818 byte  fd5310813af745f6…  application/octet-stream
+280  html  ok               24546 byte  f3e15db0c8ca4c9e…  text/html; charset=utf-8
+280  pdf   ok               64049 byte  beb50b94e5396945…  application/octet-stream
+282  html  ok               24784 byte  c58b3a8ea723e213…  text/html; charset=utf-8
+282  pdf   ok               69560 byte  7f0e95d2f8667a11…  application/octet-stream
+330  html  ok               20982 byte  48c296296ed15261…  text/html; charset=utf-8
+330  pdf   ok               59736 byte  96efffe30959a21f…  application/octet-stream
+365  html  ok               29578 byte  4dc0a8783fe7fd45…  text/html; charset=utf-8
+365  pdf   ok               83271 byte  653fa759d28accab…  application/octet-stream
+401  html  ok               30385 byte  370247c1ea6dd7a4…  text/html; charset=utf-8
+401  pdf   ok               84851 byte  9b3418c190c50ad9…  application/octet-stream
 1495  html  ok              136100 byte  cbb5cf51d6457748…  text/html; charset=utf-8
 1495  pdf   ok              180828 byte  85c29552e9bd36ab…  application/octet-stream
 1512  html  ok               23573 byte  d3a693eac6e3f9ab…  text/html; charset=utf-8
 1512  pdf   ok               63763 byte  cbba62b6eb7b9816…  application/octet-stream
-424  html  ok               25607 byte  75c5324f8a79bf4f…  text/html; charset=utf-8
-424  pdf   ok               67173 byte  4330c0ecf36fb500…  application/octet-stream
-467  html  ok               28672 byte  de28cc72620f52ac…  text/html; charset=utf-8
-467  pdf   ok               74465 byte  8c07e75292dc4ba8…  application/octet-stream
+435  html  ok               29023 byte  09bc4d79fdce5899…  text/html; charset=utf-8
+435  pdf   ok               79126 byte  811389a677dc6d48…  application/octet-stream
+466  html  ok               23749 byte  b28e0341488a9ca9…  text/html; charset=utf-8
+466  pdf   ok               62874 byte  e23fbeb0858ad027…  application/octet-stream
+3607  html  ok               37651 byte  9eac0f6a53d18bfd…  text/html; charset=utf-8
+3607  pdf   ok               94858 byte  b67bf41590b2a268…  application/octet-stream
 20872  html  ok               72272 byte  8a529cf057c3eb74…  text/html; charset=utf-8
 20872  pdf   ok              161916 byte  6bc86283e40e315c…  application/octet-stream
 24943  html  ok               34369 byte  a1faed6851076810…  text/html; charset=utf-8
@@ -38,12 +38,12 @@ Schede nel campione: 20
 26053  pdf   ok             1134288 byte  39c814dd81e7ee4b…  application/octet-stream
 31280  html  ok               38268 byte  ba454cfb2902c2fd…  text/html; charset=utf-8
 31280  pdf   ok              503351 byte  f7c53f6065ade79f…  application/octet-stream
+31283  html  ok               30310 byte  a40b0354a384a609…  text/html; charset=utf-8
+31283  pdf   ok              440957 byte  5145ee97e0435a3d…  application/octet-stream
 31289  html  ok              254048 byte  cb05913f39dca620…  text/html; charset=utf-8
 31289  pdf   ok              748356 byte  62b0573fc63711ce…  application/octet-stream
-31344  html  ok               23971 byte  540fe5acdadb5b38…  text/html; charset=utf-8
-31344  pdf   ok              348535 byte  71bb04a5cb539a5b…  application/octet-stream
-36452  html  ok              124812 byte  b5f783b849d9f614…  text/html; charset=utf-8
-36452  pdf   ok              477685 byte  87396e20e061f8f8…  application/octet-stream
+34410  html  ok              156724 byte  e9604cc72071700e…  text/html; charset=utf-8
+34410  pdf   ok              686250 byte  f2c43cf2ebec9b35…  application/octet-stream
 
 Richieste inviate: 40
 Scaricamenti riusciti: 40

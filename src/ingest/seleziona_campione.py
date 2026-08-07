@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
 """Selezione stratificata delle schede per la verifica HTML<->PDF.
  
-Produce due campioni, entrambi dai soli fascicoli CHIUSI (gli unici con PDF):
+Produce due campioni, entrambi dai fascicoli CHIUSI (gli unici con PDF) e
+dalle sole schede dal 2019 in poi: prima di quell'anno la pagina-scheda non
+contiene il corpo dell'articolo, quindi non esiste un secondo termine da
+confrontare (verificato il 7/8; Dossier §4.4).
  
   A) VERIFICA — 20 schede su cui eseguire il confronto testuale HTML<->PDF
      con soglia di similarita' >= 0,98 (Dossier §4.4);
@@ -13,9 +16,9 @@ contiene quasi solo casi facili. Si impongono quote esplicite.
  
 Criteri per il campione di VERIFICA (20):
   - copertura di tutte le epoche: almeno 2 schede per ciascuna fascia
-    2017-2019 / 2020-2022 / 2023-2025;
-  - almeno 4 schede degli anni 2017-2019, dove la presenza dell'etichetta
-    «Quesito:» nelle pagine-scheda non e' mai stata verificata;
+    2019-2021 / 2022-2023 / 2024-2025;
+  - almeno 4 schede del 2019, primo anno con il corpo dell'articolo nell'HTML
+    e unico in cui l'etichetta «Quesito:» non e' ancora sistematica;
   - almeno 3 schede di *La Crusca rispose*, rubrica mai controllata;
   - almeno 2 di *Parole nuove* (profilo A2 ancora da decidere);
   - estremi di lunghezza: le 2 schede piu' brevi e le 2 piu' lunghe del
@@ -96,17 +99,22 @@ def main() -> None:
  
     # solo fascicoli chiusi, con PDF della scheda, e dentro il perimetro
     perimetro = {"CONSULENZA LINGUISTICA", "LA CRUSCA RISPOSE", "PAROLE NUOVE"}
+    # Dal 2019: prima di quell'anno la pagina-scheda non contiene il corpo
+    # dell'articolo, quindi non esiste un secondo termine da confrontare
+    # (verificato il 7/8; Dossier §4.4).
     pool = df[(df["stato_fascicolo"] == "chiuso")
               & (df["url_pdf_scheda"].fillna("") != "")
               & (df["rubrica_norm"].isin(perimetro))
+              & (df["anno"] >= 2019)
               & (df["lunghezza"] > 0)].copy()
-    print(f"Pool: {len(pool)} schede di fascicoli chiusi, con PDF, entro il perimetro\n")
+    print(f"Pool: {len(pool)} schede dal 2019, di fascicoli chiusi, "
+          f"con PDF, entro il perimetro\n")
  
     # ---------- campione di VERIFICA ----------
     print("Campione di verifica (20):")
     v: dict[str, str] = {}
-    prendi(pool, v, lambda d: d["anno"].between(2017, 2019), 4,
-           "epoca 2017-2019: etichetta «Quesito:» mai verificata nell'HTML")
+    prendi(pool, v, lambda d: d["anno"] == 2019, 4,
+           "2019: primo anno con corpo dell'articolo nell'HTML, etichetta «Quesito:» non ancora sistematica")
     prendi(pool, v, lambda d: d["rubrica_norm"] == "LA CRUSCA RISPOSE", 3,
            "rubrica La Crusca rispose: mai controllata")
     prendi(pool, v, lambda d: d["rubrica_norm"] == "PAROLE NUOVE", 2,

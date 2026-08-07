@@ -1,0 +1,27 @@
+CONFRONTO HTML<->PDF SUL CAMPIONE DI VERIFICA
+Momento: 2026-08-07T15:55:23+02:00
+Soglia: 0.98
+Schede confrontate: 20
+Sopra soglia: 20   Sotto soglia: 0
+
+     id  anno     sim  car_html   car_pdf   delta  quesito  esito
+    466  2020  0.9830      4167      4116     -51  True     ok
+   1512  2020  0.9837      4453      4407     -46  True     ok
+    275  2019  0.9853      1682      1649     -33  False    ok
+    330  2019  0.9861      3514      3526      12  False    ok
+    279  2019  0.9870      2840      2797     -43  False    ok
+    365  2019  0.9893     10668     10637     -31  False    ok
+    435  2020  0.9896     11173     11168      -5  False    ok
+    282  2019  0.9897      7444      7413     -31  False    ok
+    280  2019  0.9911      5551      5522     -29  False    ok
+    401  2019  0.9911      8865      8827     -38  True     ok
+  24985  2023  0.9914      8043      8044       1  True     ok
+   3607  2021  0.9918     13463     13443     -20  True     ok
+   1495  2020  0.9923     18834     18847      13  False    ok
+  24943  2023  0.9924     10790     10780     -10  True     ok
+  20872  2022  0.9932     36888     36937      49  True     ok
+  31283  2024  0.9940     10328     10390      62  False    ok
+  31280  2024  0.9950     13956     13946     -10  True     ok
+  34410  2025  0.9961     15946     16015      69  False    ok
+  26053  2023  0.9966     41693     41920     227  True     ok
+  31289  2024  0.9968     19102     19172      70  False    ok
